@@ -20,5 +20,3 @@ The `coffeescripts` folder contains the CoffeeScript source while the
 ## Installation
 Presuming you already have CoffeeScript installed, all you have to do is simply
 open the `index.html` file in a modern browser to see the simulation in progress.
-
-## To-do
