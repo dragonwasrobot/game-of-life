@@ -1,0 +1,24 @@
+Conway's Game of Life
+======================
+
+## What is this?
+A simple implementation of Conway's Game of Life made using the CoffeeScript and
+HTML5 Canvas.
+
+## General
+
+- **Author:** Peter Urbak, peter@dragonwasrobot.com
+- **Created:** 2012-08-07
+- **Last Modified:** 2012-08-07
+- **URL:** https://github.com/dragonwasrobot/game-of-life
+- **License:** Gnu General Public License
+
+## Notes
+The `coffeescripts` folder contains the CoffeeScript source while the
+`javascripts` folder contains the compiled CoffeeScript code (as JavaScript).
+
+## Installation
+Presuming you already have CoffeeScript installed, all you have to do is simply
+open the `index.html` file in a modern browser to see the simulation in progress.
+
+## To-do
