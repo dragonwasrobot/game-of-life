@@ -3,7 +3,7 @@ Conway's Game of Life
 
 ## What is this?
 A simple implementation of Conway's Game of Life made using CoffeeScript and
-HTML5 Canvas.
+HTML5 Canvas. The project was done as an exercise.
 
 ## General
 
